@@ -1,6 +1,6 @@
 {
     "name": "Button-controller",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "micro：bit按钮扩展，快捷地使用各引脚按钮",
     "license": "MIT",
     "dependencies": {
