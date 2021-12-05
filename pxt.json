@@ -12,8 +12,8 @@
         "shims.d.ts",
         "enums.d.ts",
         "controller.cpp",
-        "_locales/zh/Button-controller-jsdoc-strings.json",
-        "_locales/zh/Button-controller-strings.json"
+        "_locales/zh-cn/Button-controller-jsdoc-strings.json",
+        "_locales/zh-cn/Button-controller-strings.json"
     ],
     "testFiles": [
         "tests.ts"
