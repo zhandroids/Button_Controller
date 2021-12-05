@@ -1,0 +1,11 @@
+{
+  "Button_Controller": "Blocks for driving the Button Controller\n\nBlocks for driving the Button Controller",
+  "Button_Controller.ControllerButtonEvents": "Button Controller Button Events",
+  "Button_Controller.ControllerButtonPins": "Button Controller Button Pins",
+  "Button_Controller.ControllerButtons": "Button Controller Standard Buttons",
+  "Button_Controller.buttonIsPressed": "Determines if a Button Controller button is pressed",
+  "Button_Controller.buttonIsPressed|param|button": "press to be checked",
+  "Button_Controller.onButtonPress": "Do something when one of the Button Controller Buttons is pressed",
+  "Button_Controller.onButtonPress|param|button": "press to be checked",
+  "Button_Controller.onButtonPress|param|event": "happening on the button, eg: click"
+}

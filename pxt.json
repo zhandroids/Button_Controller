@@ -1,7 +1,7 @@
 {
-    "name": "pxt-kitronik-game-controller",
-    "version": "0.0.4",
-    "description": "Blocks for driving the Kitronik :GAME Controller",
+    "name": "Button-controller",
+    "version": "0.0.1",
+    "description": "micro：bit按钮扩展，快捷地使用各引脚按钮",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -12,8 +12,8 @@
         "shims.d.ts",
         "enums.d.ts",
         "controller.cpp",
-        "_locales/hu/pxt-kitronik-game-controller-jsdoc-strings.json",
-        "_locales/hu/pxt-kitronik-game-controller-strings.json"
+        "_locales/zh/Button-controller-jsdoc-strings.json",
+        "_locales/zh/Button-controller-strings.json"
     ],
     "testFiles": [
         "tests.ts"

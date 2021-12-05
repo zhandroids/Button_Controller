@@ -2,10 +2,10 @@
 
 
     /**
-     * Blocks for driving the Kitronik :GAME Controller
+     * Blocks for driving the Button Controller
      */
     //% color=#00A654 weight=100
-declare namespace Kitronik_Game_Controller {
+declare namespace Button_Controller {
 }
 
 // Auto-generated. Do not edit. Really.
