@@ -10,8 +10,8 @@
   "Button_Controller.ControllerButtonPins.P8|block": "P8",
   "Button_Controller.ControllerButtonPins.P1|block": "P1",
   "Button_Controller.ControllerButtonPins.P2|block": "P2",
-  "Button_Controller.buttonIsPressed|block": "button %button|is pressed",
-  "Button_Controller.onButtonPress|block": "on button %button|press %event",
+  "Button_Controller.buttonIsPressed|block": "按钮 %button|is 按下",
+  "Button_Controller.onButtonPress|block": "当按钮 %button|被 %event",
   "Button_Controller|block": "按钮",
   "{id:category}Button_Controller": "Button_Controller"
 

@@ -1,11 +1,11 @@
 {
-  "Button_Controller": "Blocks for driving the Button Controller\n\nBlocks for driving the Button Controller",
-  "Button_Controller.ControllerButtonEvents": "Button Controller Button Events",
-  "Button_Controller.ControllerButtonPins": "Button Controller Button Pins",
-  "Button_Controller.ControllerButtons": "Button Controller Standard Buttons",
-  "Button_Controller.buttonIsPressed": "Determines if a Button Controller button is pressed",
-  "Button_Controller.buttonIsPressed|param|button": "press to be checked",
-  "Button_Controller.onButtonPress": "Do something when one of the Button Controller Buttons is pressed",
-  "Button_Controller.onButtonPress|param|button": "press to be checked",
-  "Button_Controller.onButtonPress|param|event": "happening on the button, eg: click"
+  "Button_Controller": "按钮操作代码块",
+  "Button_Controller.ControllerButtonEvents": "按钮操作事件",
+  "Button_Controller.ControllerButtonPins": "按钮连接到的引脚",
+  "Button_Controller.ControllerButtons": "标准按钮",
+  "Button_Controller.buttonIsPressed": "确定是否按下按钮",
+  "Button_Controller.buttonIsPressed|param|button": "按下按钮进行检查",
+  "Button_Controller.onButtonPress": "按钮被按下后所触发的功能",
+  "Button_Controller.onButtonPress|param|button": "按下按钮进行检查",
+  "Button_Controller.onButtonPress|param|event": "按钮操作，例如：点击"
 }

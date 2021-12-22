@@ -10,9 +10,9 @@ namespace Button_Controller {
         P1,
         P2,
         P8,
-        P14,
         P12,
         P13,
+        P14,
         P15,
         P16
     }
@@ -27,12 +27,12 @@ namespace Button_Controller {
         P2 = DAL.MICROBIT_ID_IO_P2,
         //% block="P8"
         P8 = DAL.MICROBIT_ID_IO_P8,
-        //% block="P14"
-        P14 = DAL.MICROBIT_ID_IO_P14,
         //% block="P12"
         P12 = DAL.MICROBIT_ID_IO_P12,
         //% block="P13"
         P13 = DAL.MICROBIT_ID_IO_P13,
+         //% block="P14"
+         P14 = DAL.MICROBIT_ID_IO_P14,
         //% block="P15"
         P15 = DAL.MICROBIT_ID_IO_P15,
         //% block="P16"
